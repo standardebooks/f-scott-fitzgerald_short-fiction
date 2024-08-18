@@ -29,3 +29,30 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End centered dedications */
+
+/* Table in "The Captured Shadow */
+#the-captured-shadow table{
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#the-captured-shadow thead th{
+	font-size: 1.3em;
+	font-weight: normal;
+	padding-bottom: 0.5em;
+	text-align: center;
+}
+
+#the-captured-shadow tbody td{
+	border: solid black 1px;
+	padding-left: 0.4em;
+	text-align: right;
+}
+
+#the-captured-shadow tbody td:first-child{
+	border: solid black 1px;
+	padding-left: 0.4em;
+	padding-right: 0.4em;
+	text-align: initial;
+}
