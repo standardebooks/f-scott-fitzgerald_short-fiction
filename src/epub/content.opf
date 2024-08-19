@@ -30,11 +30,18 @@
 		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<dc:subject id="subject-2">Short stories, American</dc:subject>
+		<dc:subject id="subject-3">American fiction -- 20th century</dc:subject>
+		<dc:subject id="subject-4">United States -- Social life and customs -- 20th century -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85121819</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85004320</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2007100002</meta>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
@@ -49,22 +56,35 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/f-scott-fitzgerald_short-fiction</meta>
 		<dc:creator id="author">F. Scott Fitzgerald</dc:creator>
 		<meta property="file-as" refines="#author">Fitzgerald, F. Scott</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Francis Scott Key Fitzgerald</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/F._Scott_Fitzgerald</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006871</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<!--Transcriber of "Flappers and Philosopers"-->
+		<dc:contributor id="transcriber-1">Curtis A. Weyant</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Weyant, Curtis A.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<!--Transcribers for "Tales of the Jazz Age"-->
+		<dc:contributor id="transcriber-2">Steve Schulze</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Schulze, Steve</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Charles Franks</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Franks, Charles</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-4">Henry Flower</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Flower, Henry</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<!--Transcriber for "All the Sad Young Men"-->
+		<dc:contributor id="transcriber-5">Laura Natal Rodrigues</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Rodrigues, Laura Natal</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
