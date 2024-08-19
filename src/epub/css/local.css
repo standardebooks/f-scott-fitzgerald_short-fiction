@@ -150,3 +150,9 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+#the-captured-shadow blockquote.play-titlecard p{
+	margin-bottom: 0.5em;
+	text-align: center;
+	text-indent: 0;
+}
