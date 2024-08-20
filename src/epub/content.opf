@@ -47,8 +47,45 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Flappers and Philosopers -->
 		<dc:source>https://www.gutenberg.org/ebooks/4368</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=hvd.32044019872035</dc:source>
+		<!-- Tales from the Jazz Age -->
+		<dc:source>https://www.gutenberg.org/ebooks/6695</dc:source>
+		<dc:source>https://archive.org/details/talesofjazzage0000fsco</dc:source>
+		<!-- All the Sad Young Men -->
+		<dc:source>https://www.gutenberg.org/ebooks/68229</dc:source>
+		<dc:source>https://babel.hathitrust.org/cgi/pt?id=mdp.39015002203357</dc:source>
+		<!-- Love in the Night -->
+		<dc:source>https://gutenberg.net.au/fsf/LOVE-IN-THE-NIGHT.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1925-03-14_197_37</dc:source>
+		<!-- Jacob's Ladder -->
+		<dc:source>https://gutenberg.net.au/fsf/JACOBS-LADDER.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1927-08-20_200_8</dc:source>
+		<!-- A Short Trip Home -->
+		<dc:source>https://gutenberg.net.au/fsf/A-SHORT-TRIP-HOME.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1927-12-17_200_25</dc:source>
+		<!-- The Bowl -->
+		<dc:source>https://gutenberg.net.au/fsf/THE-BOWL.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-01-21_200_30</dc:source>
+		<!-- Magnetism -->
+		<dc:source>https://gutenberg.net.au/fsf/MAGNETISM.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-03-03_200_36</dc:source>
+		<!-- The Scandal Detectives -->
+		<dc:source>https://gutenberg.net.au/fsf/THE-SCANDAL-DETECTIVES.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-04-28_200_44</dc:source>
+		<!-- A Night at the Fair -->
+		<dc:source>https://gutenberg.net.au/fsf/A-NIGHT-AT-THE-FAIR.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-07-21_201_3</dc:source>
+		<!-- The Freshest Boy -->
+		<dc:source>https://gutenberg.net.au/fsf/BASIL-THE-FRESHEST-BOY.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-07-28_201_4</dc:source>
+		<!-- He Thinks He's Wonderful -->
+		<dc:source>https://gutenberg.net.au/fsf/HE-THINKS-HES-WONDERFUL.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-09-29_201_13</dc:source>
+		<!-- The Captured Shadow -->
+		<dc:source>https://gutenberg.net.au/fsf/THE-CAPTURED-SHADOW.html</dc:source>
+		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-12-29_201_26</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
