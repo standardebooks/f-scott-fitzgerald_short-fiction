@@ -184,3 +184,16 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
+
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
+	text-indent: 0;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
