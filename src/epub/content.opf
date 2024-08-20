@@ -136,15 +136,99 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/a-night-at-the-fair.xhtml" id="a-night-at-the-fair.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/a-short-trip-home.xhtml" id="a-short-trip-home.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/absolution.xhtml" id="absolution.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/benediction.xhtml" id="benediction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bernice-bobs-her-hair.xhtml" id="bernice-bobs-her-hair.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dalyrimple-goes-wrong.xhtml" id="dalyrimple-goes-wrong.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication-1.xhtml" id="dedication-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication-2.xhtml" id="dedication-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dedication-3.xhtml" id="dedication-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/gretchens-forty-winks.xhtml" id="gretchens-forty-winks.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/he-thinks-hes-wonderful.xhtml" id="he-thinks-hes-wonderful.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/head-and-shoulders.xhtml" id="head-and-shoulders.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hot-and-cold-blood.xhtml" id="hot-and-cold-blood.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/jacobs-ladder.xhtml" id="jacobs-ladder.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jemina-the-mountain-girl.xhtml" id="jemina-the-mountain-girl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/love-in-the-night.xhtml" id="love-in-the-night.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/magnetism.xhtml" id="magnetism.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/may-day.xhtml" id="may-day.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/mr-icky.xhtml" id="mr-icky.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/o-russet-witch.xhtml" id="o-russet-witch.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/porcelain-and-pink.xhtml" id="porcelain-and-pink.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/rags-martin-jones-and-the-pr-nce-of-w-les.xhtml" id="rags-martin-jones-and-the-pr-nce-of-w-les.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/tarquin-of-cheapside.xhtml" id="tarquin-of-cheapside.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-adjuster.xhtml" id="the-adjuster.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-baby-party.xhtml" id="the-baby-party.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-bowl.xhtml" id="the-bowl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-camels-back.xhtml" id="the-camels-back.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-captured-shadow.xhtml" id="the-captured-shadow.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-curious-case-of-benjamin-button.xhtml" id="the-curious-case-of-benjamin-button.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cut-glass-bowl.xhtml" id="the-cut-glass-bowl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-diamond-as-big-as-the-ritz.xhtml" id="the-diamond-as-big-as-the-ritz.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-four-fists.xhtml" id="the-four-fists.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-freshest-boy.xhtml" id="the-freshest-boy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ice-palace.xhtml" id="the-ice-palace.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-jelly-bean.xhtml" id="the-jelly-bean.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-lees-of-happiness.xhtml" id="the-lees-of-happiness.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-offshore-pirate.xhtml" id="the-offshore-pirate.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rich-boy.xhtml" id="the-rich-boy.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-scandal-detectives.xhtml" id="the-scandal-detectives.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-sensible-thing.xhtml" id="the-sensible-thing.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/winter-dreams.xhtml" id="winter-dreams.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dedication-1.xhtml"/>
+		<itemref idref="dedication-2.xhtml"/>
+		<itemref idref="dedication-3.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
+		<itemref idref="tarquin-of-cheapside.xhtml"/>
+		<itemref idref="porcelain-and-pink.xhtml"/>
+		<itemref idref="head-and-shoulders.xhtml"/>
+		<itemref idref="benediction.xhtml"/>
+		<itemref idref="dalyrimple-goes-wrong.xhtml"/>
+		<itemref idref="mr-icky.xhtml"/>
+		<itemref idref="the-camels-back.xhtml"/>
+		<itemref idref="bernice-bobs-her-hair.xhtml"/>
+		<itemref idref="the-ice-palace.xhtml"/>
+		<itemref idref="the-offshore-pirate.xhtml"/>
+		<itemref idref="the-cut-glass-bowl.xhtml"/>
+		<itemref idref="the-four-fists.xhtml"/>
+		<itemref idref="may-day.xhtml"/>
+		<itemref idref="the-jelly-bean.xhtml"/>
+		<itemref idref="the-lees-of-happiness.xhtml"/>
+		<itemref idref="jemina-the-mountain-girl.xhtml"/>
+		<itemref idref="o-russet-witch.xhtml"/>
+		<itemref idref="the-curious-case-of-benjamin-button.xhtml"/>
+		<itemref idref="the-diamond-as-big-as-the-ritz.xhtml"/>
+		<itemref idref="winter-dreams.xhtml"/>
+		<itemref idref="hot-and-cold-blood.xhtml"/>
+		<itemref idref="gretchens-forty-winks.xhtml"/>
+		<itemref idref="absolution.xhtml"/>
+		<itemref idref="the-sensible-thing.xhtml"/>
+		<itemref idref="the-baby-party.xhtml"/>
+		<itemref idref="love-in-the-night.xhtml"/>
+		<itemref idref="the-adjuster.xhtml"/>
+		<itemref idref="the-rich-boy.xhtml"/>
+		<itemref idref="rags-martin-jones-and-the-pr-nce-of-w-les.xhtml"/>
+		<itemref idref="jacobs-ladder.xhtml"/>
+		<itemref idref="a-short-trip-home.xhtml"/>
+		<itemref idref="the-bowl.xhtml"/>
+		<itemref idref="magnetism.xhtml"/>
+		<itemref idref="the-scandal-detectives.xhtml"/>
+		<itemref idref="a-night-at-the-fair.xhtml"/>
+		<itemref idref="the-freshest-boy.xhtml"/>
+		<itemref idref="he-thinks-hes-wonderful.xhtml"/>
+		<itemref idref="the-captured-shadow.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
