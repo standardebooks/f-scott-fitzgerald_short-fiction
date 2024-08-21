@@ -200,6 +200,6 @@ footer{
 
 /* Last line of "Porcelain and Pink" */
 #porcelain-and-pink p:last-of-type{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
