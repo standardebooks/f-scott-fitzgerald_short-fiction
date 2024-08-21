@@ -161,7 +161,7 @@ p span.i2{
 	text-indent: -1em;
 }
 
-#the-captured-shadow blockquote.play-titlecard p{
+blockquote.play-titlecard p{
 	margin-bottom: 0.5em;
 	text-align: center;
 	text-indent: 0;
