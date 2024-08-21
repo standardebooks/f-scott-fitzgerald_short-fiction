@@ -197,3 +197,9 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+/* Last line of "Porcelain and Pink" */
+#porcelain-and-pink p:last-of-type{
+	text-align: center;
+	font-variant: small-caps;
+}
