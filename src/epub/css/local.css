@@ -33,8 +33,7 @@ section[epub|type~="dedication"] > *{
 /* Table in "The Captured Shadow */
 #the-captured-shadow-1 table:first-of-type{
 	border-collapse: collapse;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 1em auto 1em auto;
 }
 
 #the-captured-shadow-1 table:first-of-type thead th{
@@ -60,8 +59,7 @@ section[epub|type~="dedication"] > *{
 /* Two instances of <table> in "Dalyrimples Goes Wrong" */
 #dalyrimple-goes-wrong table{
 	border-collapse: collapse;
-	margin-left: auto;
-	margin-right: auto;
+	margin: 1em auto 1em auto;
 }
 
 #dalyrimple-goes-wrong table td{
