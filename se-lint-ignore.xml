@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dalyrimple-goes-wrong.xhtml">
+		<ignore>
+			<code>t-063</code>
+			<reason>Instance of "a priori" seems to be correct.</reason>
+		</ignore>
+	</file>
+	<file path="head-and-shoulders.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Quoted dialog continues in next paragraph.</reason>
+		</ignore>
+	</file>
+	<file path="magnetism.xhtml">
+		<ignore>
+			<code>t-002</code>
+			<reason>Punctuation seems to be correct.</reason>
+		</ignore>
+	</file>
+	<file path="rags-martin-jones-and-the-pr-nce-of-w-les.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title capitalization is correct.</reason>
+		</ignore>
+	</file>
+	<file path="the-rich-boy.xhtml">
+		<ignore>
+			<code>t-011</code>
+			<reason>Missing final period seems to be proper.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
