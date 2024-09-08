@@ -213,3 +213,8 @@ article#porcelain-and-pink > p:last-of-type{
 [epub|type~="bridgehead"] i{
 	font-style: normal;
 }
+
+/*  */
+q{
+	font-style: italic;
+}
