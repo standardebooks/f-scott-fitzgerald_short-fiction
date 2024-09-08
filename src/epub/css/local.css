@@ -218,3 +218,12 @@ article#porcelain-and-pink > p:last-of-type{
 q{
 	font-style: italic;
 }
+
+/* Two blockquotes in "The Bowl" */
+#the-bowl-2 blockquote{
+	text-align: center;
+}
+
+#the-bowl-2 blockquote p{
+	text-indent: 0;
+}
