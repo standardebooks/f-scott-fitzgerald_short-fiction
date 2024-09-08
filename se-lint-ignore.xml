@@ -6,6 +6,20 @@
 			<reason>Instance of "a priori" seems to be correct.</reason>
 		</ignore>
 	</file>
+	<file path="dice-brassknuckle-guitar.xhtml">
+		<ignore>
+			<code>s-045</code>
+			<reason>No semantics are apparently needed.</reason>
+		</ignore>
+		<ignore>
+			<code>t-011</code>
+			<reason>Lack of final period is intended.</reason>
+		</ignore>
+		<ignore>
+			<code>y-029</code>
+			<reason>Italics are intended as they are.</reason>
+		</ignore>
+	</file>
 	<file path="head-and-shoulders.xhtml">
 		<ignore>
 			<code>t-003</code>
