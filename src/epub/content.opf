@@ -147,6 +147,7 @@
 		<item href="text/dedication-1.xhtml" id="dedication-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dedication-2.xhtml" id="dedication-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dedication-3.xhtml" id="dedication-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/dice-brassknuckles-guitar.xhtml" id="dice-brassknuckles-guitar.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gretchens-forty-winks.xhtml" id="gretchens-forty-winks.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/he-thinks-hes-wonderful.xhtml" id="he-thinks-hes-wonderful.xhtml" media-type="application/xhtml+xml"/>
@@ -217,6 +218,7 @@
 		<itemref idref="absolution.xhtml"/>
 		<itemref idref="the-sensible-thing.xhtml"/>
 		<itemref idref="the-baby-party.xhtml"/>
+		<itemref idref="dice-brassknuckles-guitar.xhtml"/>
 		<itemref idref="love-in-the-night.xhtml"/>
 		<itemref idref="the-adjuster.xhtml"/>
 		<itemref idref="the-rich-boy.xhtml"/>
