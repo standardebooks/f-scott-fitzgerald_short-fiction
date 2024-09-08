@@ -43,9 +43,11 @@
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short fiction by F. Scott Fitzgerald in the Public Domain, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Although best known for his novels, &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt; was also a prolific writer of short fiction, having published a significant amount of short works in periodicals and collections throughout his literary career.&lt;/p&gt;
+			&lt;p&gt;With varying characters and themes, his stories are mostly set in post-WWI America, the “Jazz Age.” The habits and excess of the upper-class composed a significant part of Fitzgerald’s stories.&lt;/p&gt;
+			&lt;p&gt;This collection includes the stories known to be in the Public Domain and with available transcriptions.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Flappers and Philosopers -->
