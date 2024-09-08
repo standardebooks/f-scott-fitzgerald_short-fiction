@@ -220,10 +220,12 @@ q{
 }
 
 /* Two blockquotes in "The Bowl" */
+#dice-brassknuckles-guitar blockquote,
 #the-bowl-2 blockquote{
 	text-align: center;
 }
 
+#dice-brassknuckles-guitar blockquote p,
 #the-bowl-2 blockquote p{
 	text-indent: 0;
 }
