@@ -86,6 +86,9 @@
 		<!-- The Captured Shadow -->
 		<dc:source>https://gutenberg.net.au/fsf/THE-CAPTURED-SHADOW.html</dc:source>
 		<dc:source>https://archive.org/details/sim_saturday-evening-post_1928-12-29_201_26</dc:source>
+		<!-- Dice, Brassknuckle and Guitar -->
+		<dc:source>https://gutenberg.net.au/fsf/DICE.html</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/000542803</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
