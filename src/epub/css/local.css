@@ -193,3 +193,7 @@ q{
 #the-bowl-2 blockquote p{
 	text-indent: 0;
 }
+
+#head-and-shoulders .play-titlecard{
+	font-variant: small-caps;
+}
