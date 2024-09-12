@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
 /* Table in "The Captured Shadow */
 #the-captured-shadow-1 p.continued + table{
 	border-collapse: collapse;
@@ -115,7 +116,8 @@ p span.i2{
 	text-indent: -1em;
 }
 
-blockquote.play-titlecard p{
+blockquote.play-titlecard p,
+div.play-titlecard p{
 	margin-bottom: 0.5em;
 	text-align: center;
 	text-indent: 0;
