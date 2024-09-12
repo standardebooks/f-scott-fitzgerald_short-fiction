@@ -3,14 +3,12 @@
 
 /* Table in "The Captured Shadow */
 #the-captured-shadow-1 p.continued + table{
-	border-collapse: collapse;
-	margin: 1em auto 1em auto;
+	margin: 1em auto;
 }
 
 #the-captured-shadow-1 p.continued + table thead th{
 	font-size: larger;
 	font-weight: normal;
-	padding: 0.25em;
 	text-align: center;
 }
 
@@ -29,11 +27,15 @@
 }
 
 /* Play CSS for "Mr. Icky" and "The Captured Shadow */
-[epub|type~="z3998:drama"] table,
-table[epub|type~="z3998:drama"]{
+[epub|type~="z3998:drama"] table{
 	border-collapse: collapse;
 	margin: 1em auto;
 	width: 100%;
+}
+
+[epub|type~="z3998:scene"] > p{
+	margin: 1em auto;
+	width: 75%;
 }
 
 [epub|type~="z3998:drama"] tr:first-child td{
