@@ -180,7 +180,7 @@ footer{
 }
 
 /* Last line of "Porcelain and Pink" */
-article#porcelain-and-pink > p:last-of-type{
+#porcelain-and-pink > p:last-of-type{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
