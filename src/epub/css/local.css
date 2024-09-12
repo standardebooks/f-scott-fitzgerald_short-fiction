@@ -37,34 +37,24 @@ section[epub|type~="dedication"] > *{
 }
 
 #the-captured-shadow-1 table:first-of-type thead th{
-	font-size: 1.3em;
+	font-size: larger;
 	font-weight: normal;
-	padding-bottom: 0.5em;
+	padding: 0.25em;
 	text-align: center;
 }
 
-#the-captured-shadow-1 table:first-of-type tbody td{
-	border: solid black 1px;
-	padding-left: 0.4em;
-	text-align: right;
-}
-
-#the-captured-shadow-1 table:first-of-type tbody td:first-child{
-	border: solid black 1px;
-	padding-left: 0.4em;
-	padding-right: 0.4em;
-	text-align: initial;
+#the-captured-shadow-1 table:first-of-type tr td{
+	font-style: italic;
+	padding: 0.25em;
 }
 
 /* Two instances of <table> in "Dalyrimples Goes Wrong" */
 #dalyrimple-goes-wrong table{
-	border-collapse: collapse;
 	margin: 1em auto 1em auto;
 }
 
-#dalyrimple-goes-wrong table td{
+#dalyrimple-goes-wrong table td + td{
 	padding-left: 1.5em;
-	padding-right: 1.5em;
 }
 
 /* Play CSS for "Mr. Icky" and "The Captured Shadow */
@@ -214,7 +204,7 @@ article#porcelain-and-pink > p:last-of-type{
 	font-style: normal;
 }
 
-/*  */
+/* Styling for inner thoughts */
 q{
 	font-style: italic;
 }
