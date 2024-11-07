@@ -14,7 +14,7 @@
 
 #the-captured-shadow-1 p.continued + table tr td{
 	font-style: italic;
-	padding: 0.25em;
+	padding: .25em;
 }
 
 /* Two instances of <table> in "Dalyrimples Goes Wrong" */
@@ -120,7 +120,7 @@ p span.i2{
 
 blockquote.play-titlecard p,
 div.play-titlecard p{
-	margin-bottom: 0.5em;
+	margin-bottom: .5em;
 	text-align: center;
 	text-indent: 0;
 }
