@@ -95,7 +95,7 @@
 		<!-- Dice, Brassknuckle and Guitar -->
 		<dc:source>https://www.gutenberg.net.au/fsf/DICE.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000542803</dc:source>
-		<meta property="se:word-count">303734</meta>
+		<meta property="se:word-count">296709</meta>
 		<meta property="se:reading-ease.flesch">73.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/F._Scott_Fitzgerald_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/f-scott-fitzgerald_short-fiction</meta>
