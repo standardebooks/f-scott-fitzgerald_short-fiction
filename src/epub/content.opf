@@ -46,6 +46,7 @@
 		<meta property="se:is-a-collection">true</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Gateway to the Great Books</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="se:title-in-collection" refines="#collection-1">The Diamond as Big as the Ritz</meta>
 		<dc:description id="description">A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Although perhaps best known for his novels, &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt; was also a prolific writer of short fiction, having published a large number of short works in periodicals and collections throughout his literary career.&lt;/p&gt;
