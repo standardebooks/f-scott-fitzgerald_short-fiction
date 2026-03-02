@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="dice-brassknuckles-guitar.xhtml">
-		<ignore>
-			<code>t-011</code>
+		<ignore code="t-011">
 			<reason>Lack of final period is intended.</reason>
 		</ignore>
-		<ignore>
-			<code>y-029</code>
+		<ignore code="y-029">
 			<reason>Italics are intended as they are.</reason>
 		</ignore>
 	</file>
