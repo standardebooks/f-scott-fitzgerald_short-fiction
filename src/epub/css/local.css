@@ -170,7 +170,7 @@ footer{
 }
 
 /* Bridgehead in "Jemina" */
-[epub|type~="bridgehead"]{
+[epub|type~="se:bridgehead"]{
 	display: inline-block;
 	font-style: italic;
 	max-width: 60%;
@@ -178,7 +178,7 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="bridgehead"] em{
+[epub|type~="se:bridgehead"] em{
 	font-style: normal;
 }
 
