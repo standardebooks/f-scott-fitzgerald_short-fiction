@@ -50,7 +50,7 @@
 		<meta property="schema:hasPart" refines="#collection-1" id="collection-1-entry-1">schema:hasPart</meta>
 		<meta property="rdf:type" refines="#collection-1-entry-1">http://schema.org/CreativeWork</meta>
 		<meta property="schema:name" refines="#collection-1-entry-1">The Diamond as Big as the Ritz</meta>
-		<dc:abstract>A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of short fiction by F. Scott Fitzgerald, ordered by date of publication.</meta>
 		<dc:description>
 			&lt;p&gt;Although perhaps best known for his novels, &lt;a href="https://standardebooks.org/ebooks/f-scott-fitzgerald"&gt;F. Scott Fitzgerald&lt;/a&gt; was also a prolific writer of short fiction, having published a large number of short works in periodicals and collections throughout his literary career.&lt;/p&gt;
 			&lt;p&gt;Fitzgerald mostly wrote about post-WWI America, the “Jazz Age,” and his stories tend to focus on the habits and excesses of the upper class.&lt;/p&gt;
