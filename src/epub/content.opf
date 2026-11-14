@@ -111,9 +111,8 @@
 		<link href="https://en.wikipedia.org/wiki/F._Scott_Fitzgerald" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79006871.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Irving R. Wiles</dc:contributor>
-		<meta property="file-as" refines="#artist">Wiles, Irving R.</meta>
-		<meta property="schema:alternateName" refines="#artist">Irving Ramsey Wiles</meta>
+		<dc:contributor id="artist">Irving Ramsey Wiles</dc:contributor>
+		<meta property="file-as" refines="#artist">Wiles, Irving Ramsey</meta>
 		<link href="https://en.wikipedia.org/wiki/Irving_Ramsey_Wiles" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr89005641.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
